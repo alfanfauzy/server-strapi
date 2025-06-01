@@ -1,5 +1,7 @@
 # 🚀 Getting started with Strapi
 
+https://strapi.io/blog/getting-started-with-next-js-and-strapi-5-beginner-s-guide
+
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
 ### `develop`
